@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Josué Alves Silva, tenho 16 anos e sou de São Paulo. Atualmente faço o ensino médio técnico na FIAP School, sendo o curso de desenvolvimento de sistemas.
+Meu nome é Josué Alves Silva, tenho 16 anos e sou de São Paulo. Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas na FIAP School, com foco na construção de soluções em programação e no aprimoramento contínuo das minhas competências técnicas.
 
 <p align="left">
 
