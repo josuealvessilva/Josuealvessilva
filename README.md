@@ -23,8 +23,8 @@ Meu nome é Josué Alves Silva, tenho 17 anos e sou de São Paulo. Sou estudante
 
 <img 
     align="left" 
-    alt="GOOGLE CLOUD"
-    title="GOOGLE CLOUD" 
+    alt="Google Cloud"
+    title="Google Cloud" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
