@@ -31,11 +31,11 @@ Meu nome é Josué Alves Silva, tenho 17 anos e sou de São Paulo. Sou estudante
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 <img 
     align="left" 
