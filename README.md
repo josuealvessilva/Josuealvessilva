@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Josué Alves Silva, tenho 16 anos e sou de São Paulo. Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas na FIAP School, meu foco é em cloud computing e infraestrutura em nuvem. Atualmente trabalho com Google Cloud Platform, configurando ambientes de produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler, e construindo soluções escaláveis.
+Meu nome é Josué Alves Silva, tenho 17 anos e sou de São Paulo. Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas na FIAP School, meu foco é em cloud computing e infraestrutura em nuvem. Atualmente trabalho com Google Cloud Platform, configurando ambientes de produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler, e construindo soluções escaláveis.
 
 <p align="left">
 
@@ -23,8 +23,8 @@ Meu nome é Josué Alves Silva, tenho 16 anos e sou de São Paulo. Sou estudante
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GOOGLE CLOUD"
+    title="GOOGLE CLOUD" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
