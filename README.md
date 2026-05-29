@@ -45,4 +45,4 @@ Tenho 17 anos, sou de São Paulo e estudo Desenvolvimento de Sistemas na FIAP Sc
 
 ### 📌 Foco atual
 
-Cloud Operations → Cloud Security Engineering. Próximo passo: Associate Cloud Engineer (GCP) em 2027.
+Estudando para Certificação Associate Cloud Engineer (GCP).
