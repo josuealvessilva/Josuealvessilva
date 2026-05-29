@@ -1,74 +1,48 @@
-# 👨‍💻 Josué Alves
+# Josué Alves Silva
 
-**`Cloud Engineer`**
+**`Cloud Operations Engineer`**
 
-Meu nome é Josué Alves Silva, tenho 17 anos e sou de São Paulo. Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas na FIAP School, meu foco é em cloud computing e infraestrutura em nuvem. Atualmente trabalho com Google Cloud Platform, configurando ambientes de produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler, e construindo soluções escaláveis.
+Tenho 17 anos, sou de São Paulo e estudo Desenvolvimento de Sistemas na FIAP School. Meu foco é cloud computing e infraestrutura em nuvem — atualmente opero ambientes GCP em produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler.
 
 <p align="left">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-alves77/)
-    </a>
-    <a href="https://github.com/josuealvessilva?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/josuealvessilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/josué-alves77/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/josuealvessilva?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/josuealvessilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Google Cloud"
-    title="Google Cloud" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-<br/>
-<br/>
+<br/><br/>
+
+**GCP:** Cloud SQL · Firebase Functions · Firebase Authentication · Firebase Cloud Messaging · Secret Manager · Cloud Scheduler · Cloud Storage · Cloud Monitoring · Cloud Logging · IAM
+
+---
+
+### 🚧 Projetos em andamento
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **FlemingCore** | Plataforma mobile de monitoramento de validade de medicamentos para farmácias independentes. Responsável por toda a infraestrutura GCP. Challenge Eurofarma 2026. | GCP · Firebase · PostgreSQL · Python |
+
+---
+
+### 📌 Foco atual
+
+Cloud Operations → Cloud Security Engineering. Próximo passo: Associate Cloud Engineer (GCP) em 2027.
