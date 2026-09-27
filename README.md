@@ -2,7 +2,7 @@
 
 **`Cloud Operations Engineer`**
 
-Tenho 17 anos, sou de São Paulo e estudo Desenvolvimento de Sistemas na FIAP School. Meu foco é cloud computing e infraestrutura em nuvem — atualmente opero ambientes GCP em produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler.
+Tenho 18 anos, sou de São Paulo e estudo Desenvolvimento de Sistemas na FIAP School. Meu foco é cloud computing e infraestrutura em nuvem — atualmente opero ambientes GCP em produção, gerenciando serviços como Cloud SQL, Firebase, Secret Manager e Cloud Scheduler.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/josué-alves77/">
